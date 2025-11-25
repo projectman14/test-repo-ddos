@@ -1,5 +1,4 @@
-# Auction Platform Website in React
-
+# Auction Platform Website
 Revolutionizing asset trading through blockchain-powered auctions and tokenization.
 
 Intract with our website:- https://auctionator.vercel.app/
